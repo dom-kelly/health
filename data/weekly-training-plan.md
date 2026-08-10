@@ -60,7 +60,7 @@ Muscle memory is real: expect the numbers to climb fast for 6–8 weeks as you r
 
 ## Friday — Upper C
 
-**Everything, lighter loads, higher reps · ~50 min**
+**Everything, lighter loads, higher reps, abs · ~55 min**
 
 | # | Exercise | Sets × Reps | Notes |
 |---|---|---|---|
@@ -70,6 +70,12 @@ Muscle memory is real: expect the numbers to climb fast for 6–8 weeks as you r
 | 4 | Chest-supported dumbbell rear delt fly | 3 × 12–15 | Lie face down on the incline bench. |
 | 5 | Cable curl | 2 × 12–15 | Superset with the next — |
 | 6 | Overhead cable triceps extension | 2 × 12–15 | — no rest between the pair, 90s after. |
+| 7 | Cable crunch | 3 × 10–15 | Kneel facing the machine, rope behind the head, high pulley. Curl the ribs towards the hips — the hips don't move. Progress the weight like any other lift. |
+| 8 | Lying leg raise | 3 × 10–15 | Flat on the bench, hands gripping it behind your head. Lower the legs slowly, don't let the lower back arch off the bench. Too easy at 15 → slower negatives. |
+
+## Abs — the honest version
+
+The abs are a muscle like any other: train them with load, progress the weight, twice-a-week-ish is plenty — the cable crunches and leg raises above, plus everything the compound lifts already make them do as stabilisers. What makes them *visible* is body fat around 12–15%, and that is set by the calorie deficit, not by this table. No volume of crunches removes belly fat — spot reduction is a myth. The waist number in the tape protocol below is the real six-pack progress bar.
 
 ---
 
