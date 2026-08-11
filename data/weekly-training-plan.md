@@ -14,6 +14,8 @@ Three sessions, matched to the lift days the meal plans already feed. Push day, 
 | **Sat** | Off | — | — |
 | **Sun** | Off | — | — |
 
+**Getting there:** Rudding Park is 1.5 km from home — bike it (~6 min) or walk it (~17 min). The walk earns real zone-2 minutes toward the fat-loss ledger; the bike wins when time is short. Driving is for genuinely foul weather only. Either way, the ride/walk doesn't replace the rower warm-up — it's too short to count.
+
 **The rules that matter, in order:**
 
 1. **Progressive overload.** When you hit the top of the rep range on every set of an exercise, add weight next time (smallest jump available — 1–2kg on dumbbells, one pin on the cable stack). That's the whole engine.
