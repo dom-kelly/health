@@ -2,7 +2,7 @@
 
 **Lift Monday, Wednesday, Friday. Upper body. 45–60 minutes a session.**
 
-Three sessions, matched to the lift days the meal plans already feed. Push day, pull day, then a mixed day so every muscle gets hit twice a week — the frequency the hypertrophy research points to. Log every set in **Hevy** (free tier is enough): three routines set up once, then the job each session is simply to beat the log.
+Three sessions, matched to the lift days the meal plans already feed. Push day, pull day, then a mixed day so every muscle gets hit twice a week — the frequency the hypertrophy research points to. Log every set in **Hevy** (free tier is enough): three routines set up once, then the job each session is simply to beat the log. The **In Hevy** column in each table is the app's own name for the exercise — pick the built-in entry rather than creating a custom one, so you get the demo videos and charts.
 
 | Day | Session | Focus | Time |
 |---|---|---|---|
@@ -38,72 +38,48 @@ Muscle memory is real: expect the numbers to climb fast for 6–8 weeks as you r
 
 **Chest, shoulders, triceps · ~55 min**
 
-| # | Exercise | Sets × Reps | Notes |
-|---|---|---|---|
-| 1 | Flat dumbbell bench press | 4 × 6–10 | The heavy lift of the day. Full 2–3 min rests. |
-| 2 | Incline dumbbell press | 3 × 8–12 | Bench at 30–45°. Upper chest. |
-| 3 | Seated dumbbell shoulder press | 3 × 8–12 | Back support on the bench. |
-| 4 | Cable fly | 3 × 10–15 | Pulleys at chest height, slight forward lean, squeeze at the middle. |
-| 5 | Dumbbell lateral raise | 3 × 12–15 | Light. Lead with the elbows, no swinging. |
-| 6 | Cable triceps pushdown | 3 × 10–15 | Rope or bar, elbows pinned to your sides. |
+| # | Exercise | In Hevy | Sets × Reps | Notes |
+|---|---|---|---|---|
+| 1 | Flat dumbbell bench press | Bench Press (Dumbbell) | 4 × 6–10 | The heavy lift of the day. Full 2–3 min rests. |
+| 2 | Incline dumbbell press | Incline Bench Press (Dumbbell) | 3 × 8–12 | Bench at 30–45°. Upper chest. |
+| 3 | Seated dumbbell shoulder press | Shoulder Press (Dumbbell) | 3 × 8–12 | Back support on the bench. |
+| 4 | Cable fly | Cable Fly Crossovers | 3 × 10–15 | Pulleys at chest height, slight forward lean, squeeze at the middle. |
+| 5 | Dumbbell lateral raise | Lateral Raise (Dumbbell) | 3 × 12–15 | Light. Lead with the elbows, no swinging. |
+| 6 | Cable triceps pushdown | Triceps Pushdown (Cable) | 3 × 10–15 | Rope or bar, elbows pinned to your sides. |
 
 ## Wednesday — Pull B
 
 **Back, rear delts, biceps · ~55 min**
 
-| # | Exercise | Sets × Reps | Notes |
-|---|---|---|---|
-| 1 | Cable lat pulldown | 4 × 6–10 | High pulleys. Pull to the collarbone, chest up. |
-| 2 | One-arm dumbbell row | 3 × 8–12 each side | Knee and hand on the bench. Row to the hip, not the armpit. |
-| 3 | Seated cable row | 3 × 8–12 | Low pulley. Squeeze the shoulder blades together. |
-| 4 | Cable face pull | 3 × 12–15 | Rope at face height, pull to the bridge of the nose, elbows high. Shoulder health insurance. |
-| 5 | Dumbbell curl | 3 × 8–12 | Alternating or together. No hip swing. |
-| 6 | Hammer curl | 2 × 10–15 | Neutral grip. Hits the forearms too. |
+| # | Exercise | In Hevy | Sets × Reps | Notes |
+|---|---|---|---|---|
+| 1 | Cable lat pulldown | Lat Pulldown (Cable) | 4 × 6–10 | High pulleys. Pull to the collarbone, chest up. |
+| 2 | One-arm dumbbell row | Dumbbell Row (one-arm) | 3 × 8–12 each side | Knee and hand on the bench. Row to the hip, not the armpit. |
+| 3 | Seated cable row | Seated Cable Row | 3 × 8–12 | Low pulley. Squeeze the shoulder blades together. |
+| 4 | Cable face pull | Face Pull | 3 × 12–15 | Rope at face height, pull to the bridge of the nose, elbows high. Shoulder health insurance. |
+| 5 | Dumbbell curl | Bicep Curl (Dumbbell) | 3 × 8–12 | Alternating or together. No hip swing. |
+| 6 | Hammer curl | Hammer Curl (Dumbbell) | 2 × 10–15 | Neutral grip. Hits the forearms too. |
 
 ## Friday — Upper C
 
 **Everything, lighter loads, higher reps, abs · ~55 min**
 
-| # | Exercise | Sets × Reps | Notes |
-|---|---|---|---|
-| 1 | Incline dumbbell press | 3 × 10–15 | Lighter than Monday's — this is the volume day. |
-| 2 | Cable lat pulldown | 3 × 10–15 | Vary the grip from Wednesday (wide if you went narrow). |
-| 3 | Dumbbell lateral raise | 3 × 12–20 | Chase the burn, keep the form. |
-| 4 | Chest-supported dumbbell rear delt fly | 3 × 12–15 | Lie face down on the incline bench. |
-| 5 | Cable curl | 2 × 12–15 | Superset with the next — |
-| 6 | Overhead cable triceps extension | 2 × 12–15 | — no rest between the pair, 90s after. |
-| 7 | Cable crunch | 3 × 10–15 | Kneel facing the machine, rope behind the head, high pulley. Curl the ribs towards the hips — the hips don't move. Progress the weight like any other lift. |
-| 8 | Lying leg raise | 3 × 10–15 | Flat on the bench, hands gripping it behind your head. Lower the legs slowly, don't let the lower back arch off the bench. Too easy at 15 → slower negatives. |
+| # | Exercise | In Hevy | Sets × Reps | Notes |
+|---|---|---|---|---|
+| 1 | Incline dumbbell press | Incline Bench Press (Dumbbell) | 3 × 10–15 | Lighter than Monday's — this is the volume day. |
+| 2 | Cable lat pulldown | Lat Pulldown (Cable) | 3 × 10–15 | Vary the grip from Wednesday (wide if you went narrow). |
+| 3 | Dumbbell lateral raise | Lateral Raise (Dumbbell) | 3 × 12–20 | Chase the burn, keep the form. |
+| 4 | Chest-supported dumbbell rear delt fly | Rear Delt Reverse Fly (Dumbbell) | 3 × 12–15 | Lie face down on the incline bench. |
+| 5 | Cable curl | Bicep Curl (Cable) | 2 × 12–15 | Superset with the next — |
+| 6 | Overhead cable triceps extension | Triceps Extension (Cable) | 2 × 12–15 | — no rest between the pair, 90s after. |
+| 7 | Cable crunch | Cable Crunch | 3 × 10–15 | Kneel facing the machine, rope behind the head, high pulley. Curl the ribs towards the hips — the hips don't move. Progress the weight like any other lift. |
+| 8 | Lying leg raise | Lying Leg Raise | 3 × 10–15 | Flat on the bench, hands gripping it behind your head. Lower the legs slowly, don't let the lower back arch off the bench. Too easy at 15 → slower negatives. |
 
 ## Abs — the honest version
 
 The abs are a muscle like any other: train them with load, progress the weight, twice-a-week-ish is plenty — the cable crunches and leg raises above, plus everything the compound lifts already make them do as stabilisers. What makes them *visible* is body fat around 12–15%, and that is set by the calorie deficit, not by this table. No volume of crunches removes belly fat — spot reduction is a myth. The waist number in the tape protocol below is the real six-pack progress bar.
 
 ---
-
-## Hevy exercise names
-
-Hevy lists exercises as "Movement (Equipment)" — search the movement word alone and pick the dumbbell or cable variant. Don't create custom exercises; the built-in ones carry the demo videos and charts.
-
-| Plan name | Search in Hevy | Pick |
-|---|---|---|
-| Flat dumbbell bench press | bench press | Bench Press (Dumbbell) |
-| Incline dumbbell press | incline | Incline Bench Press (Dumbbell) |
-| Seated dumbbell shoulder press | shoulder press | Shoulder Press (Dumbbell) |
-| Cable fly | fly | Cable Fly Crossovers |
-| Dumbbell lateral raise | lateral raise | Lateral Raise (Dumbbell) |
-| Cable triceps pushdown | pushdown | Triceps Pushdown (Cable) |
-| Cable lat pulldown | pulldown | Lat Pulldown (Cable) |
-| One-arm dumbbell row | row | Dumbbell Row (one-arm) |
-| Seated cable row | seated row | Seated Cable Row |
-| Cable face pull | face pull | Face Pull |
-| Dumbbell curl | curl | Bicep Curl (Dumbbell) |
-| Hammer curl | hammer | Hammer Curl (Dumbbell) |
-| Chest-supported dumbbell rear delt fly | rear delt | Rear Delt Reverse Fly (Dumbbell) |
-| Cable curl | curl | Bicep Curl (Cable) |
-| Overhead cable triceps extension | triceps extension | Triceps Extension (Cable) |
-| Cable crunch | crunch | Cable Crunch |
-| Lying leg raise | leg raise | Lying Leg Raise |
 
 ## Progression and deloads
 
