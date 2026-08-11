@@ -2,7 +2,7 @@
 
 **Lift Monday, Wednesday, Friday. Upper body. 45–60 minutes a session.**
 
-Three sessions, matched to the lift days the meal plans already feed. Push day, pull day, then a mixed day so every muscle gets hit twice a week — the frequency the hypertrophy research points to. Log every set in **Hevy** (free tier is enough): three routines set up once, then the job each session is simply to beat the log. The **In Hevy** column in each table is the app's own name for the exercise — pick the built-in entry rather than creating a custom one, so you get the demo videos and charts.
+Three sessions, matched to the lift days the meal plans already feed. Push day, pull day, then a mixed day so every muscle gets hit twice a week — the frequency the hypertrophy research points to. Log every set in **Hevy** (free tier is enough): three routines set up once, then the job each session is simply to beat the log. The **In Hevy** column in each table is the app's own name for the exercise — pick the built-in entry rather than creating a custom one, so you get the demo videos and charts. Hevy's search chokes on pasted full names (the dashes and brackets break it): type two or three words like "seated cable row", then tap the entry matching the In Hevy name.
 
 | Day | Session | Focus | Time |
 |---|---|---|---|
