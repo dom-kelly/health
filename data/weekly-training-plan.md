@@ -7,9 +7,9 @@ Three sessions, matched to the lift days the meal plans already feed. Push day, 
 | Day | Session | Focus | Time |
 |---|---|---|---|
 | **Mon** *(lift)* | Push A | Chest, shoulders, triceps | ~55 min |
-| **Tue** | Rest or easy cardio | 20–30 min rower/bike, conversational pace | Optional |
+| **Tue** | Easy cardio | Brisk walk (or rower/bike), conversational pace | 30–45 min |
 | **Wed** *(lift)* | Pull B | Back, rear delts, biceps | ~55 min |
-| **Thu** | Rest or easy cardio | 20–30 min rower/bike, conversational pace | Optional |
+| **Thu** | Easy cardio | Brisk walk (or rower/bike), conversational pace | 30–45 min |
 | **Fri** *(lift)* | Upper C | Everything, lighter and higher rep | ~50 min |
 | **Sat** | Off | — | — |
 | **Sun** | Off | — | — |
@@ -107,7 +107,7 @@ Hevy lists exercises as "Movement (Equipment)" — search the movement word alon
 
 - **Double progression on everything.** Top of the rep range on all sets → add weight → rep count drops back → climb again. Hevy's exercise charts show the estimated-1RM line drifting up; that line rising is the plan working.
 - **Every 6–8 weeks, or when three sessions in a row feel like a grind,** take a deload week: same exercises, same reps, **60% of the weights**. You'll come back stronger the following Monday.
-- **Legs later, on purpose.** Upper-focus first is fine, but the optional Tue/Thu cardio keeps the legs and heart from atrophying in the meantime. Revisit in 8–12 weeks — a Mon push / Wed pull / Fri upper-plus-legs adjustment is the natural next step.
+- **Legs later, on purpose.** Upper-focus first is fine, but the Tue/Thu cardio keeps the legs and heart from atrophying in the meantime. Revisit in 8–12 weeks — a Mon push / Wed pull / Fri upper-plus-legs adjustment is the natural next step.
 
 ## Tape measure protocol
 
