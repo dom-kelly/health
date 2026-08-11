@@ -79,6 +79,30 @@ The abs are a muscle like any other: train them with load, progress the weight, 
 
 ---
 
+## Hevy exercise names
+
+Hevy lists exercises as "Movement (Equipment)" — search the movement word alone and pick the dumbbell or cable variant. Don't create custom exercises; the built-in ones carry the demo videos and charts.
+
+| Plan name | Search in Hevy | Pick |
+|---|---|---|
+| Flat dumbbell bench press | bench press | Bench Press (Dumbbell) |
+| Incline dumbbell press | incline | Incline Bench Press (Dumbbell) |
+| Seated dumbbell shoulder press | shoulder press | Shoulder Press (Dumbbell) |
+| Cable fly | fly | Cable Fly Crossovers |
+| Dumbbell lateral raise | lateral raise | Lateral Raise (Dumbbell) |
+| Cable triceps pushdown | pushdown | Triceps Pushdown (Cable) |
+| Cable lat pulldown | pulldown | Lat Pulldown (Cable) |
+| One-arm dumbbell row | row | Dumbbell Row (one-arm) |
+| Seated cable row | seated row | Seated Cable Row |
+| Cable face pull | face pull | Face Pull |
+| Dumbbell curl | curl | Bicep Curl (Dumbbell) |
+| Hammer curl | hammer | Hammer Curl (Dumbbell) |
+| Chest-supported dumbbell rear delt fly | rear delt | Rear Delt Reverse Fly (Dumbbell) |
+| Cable curl | curl | Bicep Curl (Cable) |
+| Overhead cable triceps extension | triceps extension | Triceps Extension (Cable) |
+| Cable crunch | crunch | Cable Crunch |
+| Lying leg raise | leg raise | Lying Leg Raise |
+
 ## Progression and deloads
 
 - **Double progression on everything.** Top of the rep range on all sets → add weight → rep count drops back → climb again. Hevy's exercise charts show the estimated-1RM line drifting up; that line rising is the plan working.
