@@ -55,7 +55,7 @@ Muscle memory is real: expect the numbers to climb fast for 6–8 weeks as you r
 |---|---|---|---|---|
 | 1 | Cable lat pulldown | Lat Pulldown (Cable) | 4 × 6–10 | High pulleys. Pull to the collarbone, chest up. |
 | 2 | One-arm dumbbell row | Dumbbell Row | 3 × 8–12 each side | Knee and hand on the bench. Row to the hip, not the armpit. |
-| 3 | Seated cable row | Seated Cable Row | 3 × 8–12 | Low pulley. Squeeze the shoulder blades together. |
+| 3 | Seated cable row | Seated Cable Row - V Grip (Cable) | 3 × 8–12 | Low pulley. Squeeze the shoulder blades together. |
 | 4 | Cable face pull | Face Pull | 3 × 12–15 | Rope at face height, pull to the bridge of the nose, elbows high. Shoulder health insurance. |
 | 5 | Dumbbell curl | Bicep Curl (Dumbbell) | 3 × 8–12 | Alternating or together. No hip swing. |
 | 6 | Hammer curl | Hammer Curl (Dumbbell) | 2 × 10–15 | Neutral grip. Hits the forearms too. |
