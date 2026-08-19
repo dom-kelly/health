@@ -60,6 +60,8 @@ Muscle memory is real: expect the numbers to climb fast for 6–8 weeks as you r
 | 5 | Dumbbell curl | Bicep Curl (Dumbbell) | 3 × 8–12 | Alternating or together. No hip swing. |
 | 6 | Hammer curl | Hammer Curl (Dumbbell) | 2 × 10–15 | Neutral grip. Hits the forearms too. |
 
+**No dedicated pulldown/row stations needed** — both work on the adjustable pulleys. Pulldown: pulley at the top, lat bar or V-handle, kneel on the floor sitting back on your heels, pull to the collarbone. Row: pulley at the bottom, V-grip, sit on the floor with feet braced against the frame, knees soft. If either setup fights your machine, the dumbbell swaps are Dumbbell Pullover (for the pulldown) and Chest Supported Incline Row (Dumbbell) (for the cable row) — both on the bench you already use.
+
 ## Friday — Upper C
 
 **Everything, lighter loads, higher reps, abs · ~55 min**
